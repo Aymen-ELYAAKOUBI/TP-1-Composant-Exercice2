@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SaveStateApp</string>
+    <string name="name_hint">Entrez votre nom</string>
+    <string name="show_welcome">Afficher le message de bienvenue</string>
+    <string name="welcome_placeholder">Votre message apparaîtra ici</string>
+    <string name="welcome_message">Bienvenue, %1$s !</string>
+    <string name="enter_name">Veuillez entrer votre nom.</string>
+</resources>
